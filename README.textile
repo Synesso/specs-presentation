@@ -1,6 +1,6 @@
 h1. Specs Presentation examples
 
-This project comprises the example code referenced by the Specs presentation at ...
+This project comprises the example code referenced by the "Specs presentation on Slideshare":http://www.slideshare.net/Synesso/specs-presentation
 
 h2. How to build
 
