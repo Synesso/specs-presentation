@@ -1,0 +1,7 @@
+h1. Specs Presentation examples
+
+This project comprises the example code referenced by the Specs presentation at ...
+
+h2. How to build
+
+Install "Simple Build Tool":http://code.google.com/p/simple-build-tool/ and execute @sbt update test@
